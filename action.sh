@@ -1,4 +1,4 @@
-branch=Py-Tgcalls(main)
+branch=Py-Tgcalls
 git clone -b $branch https://github.com/TeamDaisyX/DaisyXMusic
 cp DaisyXMusic/local.env /root/TeamDaisyX/local.env
 cd /root/DaisyXMusic
